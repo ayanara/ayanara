@@ -1,6 +1,6 @@
 
 # Olá, me chamo Ayanara Nathane!
-# Sejam bem vindos e vindas ao meu perfil GitHub 👋! 
+ Sejam bem vindos e vindas ao meu perfil GitHub 👋! 
 
 
 - 🌱 Atualmente estou aprendendo programaçao
