@@ -1,7 +1,12 @@
-# Oi! Seja bem vindos e vindas ao meu mundo de código👋
-  Hey! Welcome to my code world👋
 
-## 🌱 Atualmente estou aprendendo programaçao
+# Olá, me chamo Ayanara Nathane!
+# Sejam bem vindos e vindas ao meu perfil GitHub 👋! 
+
+
+- 🌱 Atualmente estou aprendendo programaçao
+- 💬 Pergunte-me sobre transição de carreira para aréa de programação
+- 🤔 Estou procurando ajuda como me tornar uma boa programadora
+- 😄 Pronomes: ela/dela
 
 #### Ferramentas || Fundamentos
 
@@ -26,7 +31,8 @@
 #### Contatos || Contacts
 
 <div>
-<a href="https://www.linkedin.com/in/ayanara" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href="https://www.linkedin.com/in/ayanara" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href = "mailto:aya.nathane@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
 <div>
