@@ -1,12 +1,25 @@
 
-# Olá, me chamo Ayanara Nathane!
- Sejam bem vindos e vindas ao meu perfil GitHub 👋! 
+# Ayanara Nathane
 
+**Pronouns:** she/her
 
-- 🌱 Atualmente estou aprendendo programaçao
-- 💬 Pergunte-me sobre transição de carreira para aréa de programação
-- 🤔 Estou procurando ajuda como me tornar uma boa programadora
-- 😄 Pronomes: ela/dela
+**Hello, everyone!**
+
+I am a beginner programmer who is always looking to learn new things. I am currently working on changing my career into the programming and I am always looking for opportunities to grow.
+
+I am excited about the future of programming and I am committed to learning as much as I can. I am always looking for new ways to improve my skills and I am always open to feedback.
+
+**If you have any questions or want to chat about programming, feel free to send me a message!**
+
+**Sincerely,**
+Ayanara Nathane
+
+**🌱 Currently learning programming**
+
+**💬 Ask me about changing into the programming career**
+
+**🤔 Looking for help on how to become a good programmer**
+
 
 ## Core
 
