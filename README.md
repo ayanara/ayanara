@@ -69,4 +69,3 @@ Ayanara Nathane
 </div>
   
   
-  ![Snake animation](https://github.com/ayanara/ayanara/blob/output/github-contribution-grid-snake.svg)
